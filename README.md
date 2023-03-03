@@ -13,6 +13,3 @@ and for sure this Languages :D
 <img align="right" alt="Stats" src="https://github-readme-stats.vercel.app/api?username=Snowiiii&show_icons=true&hide_border=true&theme=radical"/>
 </a>
 
-
-<h3 align="left" >How to reach me? </h3>
-Discord: Snowii2#4102
