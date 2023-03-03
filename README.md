@@ -11,8 +11,5 @@
 <p align="left" >What I Like? </p>
 1. OpenGL & Vulkan API
 
-<p align="center">
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Snowiiii&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
-</p>
-
+<img align="left" alt="Snowiiii's Github Stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Snowiiii&layout=compact&show_icons=true&hide_border=true&theme=radical">
 <img align="right" alt="Snowiiii's Github Stats" src="https://github-readme-stats.vercel.app/api?username=Snowiiii&show_icons=true&hide_border=true&theme=radical">
