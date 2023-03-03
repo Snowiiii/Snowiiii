@@ -11,6 +11,5 @@ and for this Languages :D
 
 
 <h3 align="left" >How to reach me? </h3>
-Discord
 <img width=20 align="righxt" src="https://assets-global.website-files.com/6257adef93867e50d84d30e2/636e0a6a49cf127bf92de1e2_icon_clyde_blurple_RGB.png">
-: Snowii2#4102
+Discord: Snowii2#4102
