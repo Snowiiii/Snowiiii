@@ -1,4 +1,4 @@
-### bonjour 👋
+### bonjour, Its me Snowii 👋
 
 <img width=60 align="right" src="https://toppng.com/public/uploads/thumbnail/jpg-library-on-a-call-facebook-symbols-emoticons-pinterest-emoji-talking-on-phone-11562972062hi5i79jzy6.png">
 
@@ -9,7 +9,9 @@
 
 
 <p align="left" >What I Like? </p>
-1. OpenGL & Vulkan API
+1. Food
+2. Sleep
+3. Code
 
 <img align="left" alt="Snowiiii's Github Stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Snowiiii&layout=compact&show_icons=true&hide_border=true&theme=radical">
 <img align="right" alt="Snowiiii's Github Stats" src="https://github-readme-stats.vercel.app/api?username=Snowiiii&show_icons=true&hide_border=true&theme=radical">
