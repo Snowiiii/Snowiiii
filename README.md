@@ -1,6 +1,6 @@
-<h1 align="center">- Bonjour, Its me Snowii 👋 -</h1>
+<h1 align="center">- Bonjour, Its me ʂᵰꝺώίί 👋 -</h1>
 
-<h3 align="left" >What I Like? </h3>
+<h3 align="left" >What I Like? 👌</h3>
 1. Food
 2. Sleep
 3. Code
