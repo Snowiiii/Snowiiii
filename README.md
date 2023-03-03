@@ -6,9 +6,12 @@
 3. Code
 and for sure this Languages :D
 
-<img align="center" alt="Snowiiii's Github Stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Snowiiii&layout=compact&langs_count=10&show_icons=true&hide_border=true&theme=radical">
-
-<img align="right" alt="Snowiiii's Github Stats" src="https://github-readme-stats.vercel.app/api?username=Snowiiii&show_icons=true&hide_border=true&theme=radical">
+<a>
+<img align="center" alt="Stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Snowiiii&layout=compact&langs_count=10&show_icons=true&hide_border=true&theme=radical"/>
+</a>
+<a>
+<img align="right" alt="Stats" src="https://github-readme-stats.vercel.app/api?username=Snowiiii&show_icons=true&hide_border=true&theme=radical"/>
+</a>
 
 
 <h3 align="left" >How to reach me? </h3>
