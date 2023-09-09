@@ -3,7 +3,7 @@
 <h3 align="left" >What I Like? 👌</h3>
 1. Food
 2. Sleep
-3. Code
+3. Code,
 and for sure this Languages :D
 
 <a>
