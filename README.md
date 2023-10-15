@@ -1,17 +1,16 @@
-<h1 align="center">- Bonjour, Its me ʂᵰꝺώίί 👋 -</h1>
+<h1 align="center">- Welcome, I'm Alex -</h1>
 
-<h3 align="left" >What I Like? 👌</h3>
-1. Food
-2. Sleep
-3. Code,
-and for sure this Languages :D
+<p>Passionate software developer and technology enthusiast with a keen interest in building innovative solutions. Here are some key aspects of my profile:</p>
+<ul>
+  <li>👨‍💻 Proficient in multiple programming languages.</li>
+  <li>🔧 Experienced in software development and project management.</li>
+  <li>🌐 Dedicated to creating efficient, clean, and maintainable code.</li>
+</ul>
 
-<a>
-<img align="left" alt="Stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Snowiiii&layout=compact&langs_count=10&show_icons=true&hide_border=true&theme=radical"/>
-</a>
-<a>
+<div>
+<img align="left" alt="Top Langs" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Snowiiii&layout=compact&langs_count=10&show_icons=true&hide_border=true&theme=radical"/>
 <img align="right" alt="Stats" src="https://github-readme-stats.vercel.app/api?username=Snowiiii&show_icons=true&hide_border=true&theme=radical"/>
-</a>
+</div>
 
-Discord: Snowii2#4102
-
+<h3 align="left">Contacts</h3>
+<p>Discord: snowii2</p>
