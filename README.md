@@ -7,7 +7,7 @@ Hey there! I'm Alex, a passionate software developer driven by a desire to craft
   <img alt="Stats" src="https://github-readme-stats.vercel.app/api?username=Snowiiii&show_icons=true&hide_border=true&theme=radical"/>
 </div>
 
-:::mermaid
+```mermaid
 timeline
 title My Journey
 age of 11 : Javascript
@@ -21,9 +21,9 @@ age of 14 : C++
 : Kotlin
 age of 15 : Rust
 age of 16 : Assembly
-:::
+```
 
-<h3 align="left">Contacts</h3>-
+<h3 align="left">Contacts</h3>
 
 <p>Email: lilalexmed@proton.me</p>
 <p>Discord: snowii2</p>
