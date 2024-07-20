@@ -16,7 +16,7 @@ age of 12 : Java
 : HTML
 : CSS
 age of 13 : GLSL
-: C#
+: C-Sharp
 age of 14 : C++
 : Kotlin
 age of 15 : Rust
