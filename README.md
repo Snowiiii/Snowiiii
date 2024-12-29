@@ -1,7 +1,5 @@
 <h1 align="center">- Welcome, I'm Alex -</h1>
 
-Hey there! I'm Alex, a passionate software developer driven by a desire to craft innovative solutions. With proficiency in multiple languages, I bring experience in development and project management to the table. My focus is on writing clean, efficient, and maintainable code that stands the test of time.
-
 <div style="display: flex; justify-content: space-between;">
   <img alt="Top Langs" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Snowiiii&layout=compact&langs_count=10&show_icons=true&hide_border=true&theme=radical"/>
   <img alt="Stats" src="https://github-readme-stats.vercel.app/api?username=Snowiiii&show_icons=true&hide_border=true&theme=radical"/>
