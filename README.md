@@ -23,7 +23,7 @@ age of 15 : Rust
 age of 16 : Assembly
 ```
 
-<h3 align="left">Contacts</h3>
+**Contact**
 
-<p>Email: lilalexmed@proton.me</p>
-<p>Discord: snowii2</p>
+* Email: lilalexmed@proton.me
+* Discord: snowii2
