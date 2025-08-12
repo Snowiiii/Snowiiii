@@ -1,9 +1,5 @@
 <h1 align="center">- Welcome, I'm Alex -</h1>
-
-<div style="display: flex; justify-content: space-between;">
-  <img alt="Top Langs" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Snowiiii&layout=compact&langs_count=10&show_icons=true&hide_border=true&theme=radical"/>
-  <img alt="Stats" src="https://github-readme-stats.vercel.app/api?username=Snowiiii&show_icons=true&hide_border=true&theme=radical"/>
-</div>
+I've been on a coding journey since I was 11, exploring a wide range of technologies along the way. I'm passionate about building things and constantly learning new languages and frameworks to expand my skills.
 
 ```mermaid
 timeline
